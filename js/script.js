@@ -46,6 +46,13 @@ async function mapImageList() {
     }, {
         "name": "cj2",
         "path": "img/cj2.jpg"
+    }, {
+        "name": "dicaprio-django",
+         "path": "img/dicaprio.jpg"
+         
+    }, {
+        "name" : "dicaprio-once-upon-a-time-holywood",
+        "path" :"img/dicaprio2.jpg"
     }
  ]
 return memeObject
