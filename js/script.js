@@ -36,6 +36,13 @@ async function mapImageList() {
     {
         "name": "willy-wonka",
         "path": "img/willy-wonka.jpg"
+    },
+    {
+        "name": "chorindo",
+        "path": "img/chorindo.jpg"
+    }, {
+        "name": "cj-rindo",
+        "path": "img/cj-rindo.jpg"
     }
  ]
 return memeObject
