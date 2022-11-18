@@ -43,6 +43,9 @@ async function mapImageList() {
     }, {
         "name": "cj-rindo",
         "path": "img/cj-rindo.jpg"
+    }, {
+        "name": "cj2",
+        "path": "img/cj2.jpg"
     }
  ]
 return memeObject
