@@ -32,6 +32,10 @@ async function mapImageList() {
         "name": "Side_Eyeing_Chloe",
         "path": "img/Side_Eyeing_Chloe.jpg"
 
+    },
+    {
+        "name": "willy-wonka",
+        "path": "img/willy-wonka.jpg"
     }
  ]
 return memeObject
